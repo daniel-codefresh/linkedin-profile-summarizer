@@ -2,7 +2,7 @@ from langchain import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 
-from agents.linkedin_lookup_agent import lookup as linkedin_lookup_agent
+from agents import linkedin_lookup_agent
 from third_parties import scrape_linkedin_profile
 
 
