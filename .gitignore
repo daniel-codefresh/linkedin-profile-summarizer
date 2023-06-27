@@ -131,3 +131,7 @@ dmypy.json
 # program output files
 output.txt
 daniel_soifer_linkedin_profile.json
+
+# IDEs
+.idea
+.run
